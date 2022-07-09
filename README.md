@@ -5,4 +5,4 @@ Project developed a role-based access control system which uses an approach to r
 2. Uses agile and scrum methodologies.
 3. Server - Apache Tomcat 7.0
 
-Detailed documentation is provided in Report.pdf file.
+Detailed documentation is provided in {[Report.pdf](https://github.com/aakupadhyay/Employee-management-system-with-permission-grid/blob/master/SRS.pdf) file.
